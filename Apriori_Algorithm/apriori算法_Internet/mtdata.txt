@@ -1,0 +1,47 @@
+1 4 A D F Z
+2 2 A Z
+3 4 A D F S
+4 7 A B E F J R U
+5 8 D E F H N U Y Z
+6 2 J R
+7 6 A G I J U V
+8 2 F N
+9 2 F N
+10 3 B D W
+11 3 B D N
+12 7 A C E F P Q Y
+13 3 L P Q
+14 5 A D E O W
+15 2 B W
+16 4 C K L Y
+17 3 B J Y
+18 4 F I N X
+19 2 A N
+20 2 J N
+21 14 A B D F I N R S T U V W Y Z
+22 2 A P
+23 2 A U
+24 7 D E F K L P Y
+25 2 G P
+26 4 A F Y Z
+27 6 A B D R U V 
+28 5 A B F L N
+29 2 A Z
+30 8 A E F H I J P Y
+31 7 A B D F K L Y
+32 6 A F G H N Z
+33 3 F L N
+34 2 G Q
+35 4 D M Q U
+36 9 A B C D K L N P Y
+37 6 A B J L N U
+38 2 D U
+39 7 A B D F N W X
+40 7 A B D K Q U Z
+41 3 I J W
+42 2 F U
+43 6 A F H N Q U
+44 5 A B N P Y
+45 6 A B E F Q W
+46 3 A Q W
+47 2 C W

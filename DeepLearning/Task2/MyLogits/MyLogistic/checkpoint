@@ -1,0 +1,2 @@
+model_checkpoint_path: "LogitsModel-100"
+all_model_checkpoint_paths: "LogitsModel-100"
